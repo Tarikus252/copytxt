@@ -1,6 +1,6 @@
 # copytxt
 
-## Ви також це можетет прочитати на інших мовах: [Англійська](https://github.com/Tarikus252/copytxt/blob/main/README.md), [German](https://github.com/Tarikus252/copytxt/blob/main/readme.de.md)
+## Ви також це можетет прочитати на інших мовах: [Англійська](https://github.com/Tarikus252/copytxt/blob/main/README.md), [Німецька](https://github.com/Tarikus252/copytxt/blob/main/readme.de.md)
 
 >Привіт! Я Tarikus252, і уяви ситуацію, коли твій друг дав тобі txt/word файл чи інший текстовий документ, і тобі потрібно скопіювати весь текст звідти в інше місце, але кожна лінія має бути окремо скопійована, і так по черзі.
 
