@@ -1,6 +1,6 @@
 # copytxt
 
-### Sie können dies auch in anderen Sprachen lesen: [Englisch] (https://github.com/Tarikus252/copytxt/blob/main/readme.en.md), [Ukrainisch] (https://github.com/Tarikus252/copytxt/blob/main/readme.ua.md)
+### Sie können dies auch in anderen Sprachen lesen: [Englisch](https://github.com/Tarikus252/copytxt/blob/main/README.md), [Ukrainisch](https://github.com/Tarikus252/copytxt/blob/main/readme.ua.md)
 
 
 
